@@ -1,11 +1,5 @@
 <!-- Intro -->
-# All About Live-Class-Project-14
-
-<!-- Social Links -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Hashnode][hashnode-shield]][hashnode-url]
+# All About Live-Class-Project-4
 
 <!-- PROJECT LOGO -->
 <br/>
